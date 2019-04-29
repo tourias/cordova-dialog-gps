@@ -1,23 +1,23 @@
 {
-    name: "cl.rmd.cordova.dialoggps",
-    version: "0.0.2",
-    description: "package.json for dialoggps plugin",
-    cordova: {
-        id: "cl.rmd.cordova.dialoggps",
-        platforms: [
+    "name": "cl.rmd.cordova.dialoggps",
+    "version": "0.0.2",
+    "description": "package.json for dialoggps plugin",
+    "cordova": {
+        "id": "cl.rmd.cordova.dialoggps",
+        "platforms": [
             "android",
             "ios"
         ]
     },
-    repository: {
-        type: "git",
-        url: "private"
+    "repository": {
+        "type": "git",
+        "url": "private"
     },
-    keywords: [],
-    engines: [{
-        name: "cordova",
-        version: ">=6.0.0"
+    "keywords": [],
+    "engines": [{
+        "name": "cordova",
+        "version": ">=6.0.0"
     }],
-    author: "",
-    license: "ISC"
+    "author": "",
+    "license": "ISC"
 }
